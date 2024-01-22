@@ -1,1 +1,1 @@
-# fivem_temp
+# FiveM Resource Template
